@@ -1,0 +1,5 @@
+export const TICKET_ENUMS = {
+  PENDING: "PENDING",
+  SUCCESS: "SUCCESS",
+  FAILED: "FAILED",
+};
