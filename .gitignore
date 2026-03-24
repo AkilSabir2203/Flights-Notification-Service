@@ -1,3 +1,4 @@
 node_modules/
 .env
 combined.log
+erl_crash.dump
